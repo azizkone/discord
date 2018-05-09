@@ -20,3 +20,9 @@ bot.on('message', message =>{
     message.channel.sendMessage("Liste des commandes:\n -*help");
   }
 });
+bot.on('message', message =>{
+    if(message.content === "aziz"){
+    message.channel.sendMessage("kone aziz karamoko 21 ans nee le 02 juin");
+  }
+  
+});
