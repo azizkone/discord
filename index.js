@@ -10,7 +10,7 @@ bot.on('ready', function(){
 /**
  * copier le token du bot 
  */
-bot.login("NDQyMzY0NDIxOTIzNDA1ODI0.Dc9vkw.fOyf7tC-t1fqQaxMAzg6ZAIyPsI");
+bot.login("NDQyMzY0NDIxOTIzNDA1ODI0.DibfAg.OWK7tLQzWSZRnRjrdFt0ZnaRNcQ");
 
 /**
  * reponse attendue du bot 
